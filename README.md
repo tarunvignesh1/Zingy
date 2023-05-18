@@ -4,7 +4,7 @@ A chat app with Python in frontend and C++ in backend
  Here's a plan for developing a chat app with Django as the frontend and Crow C++ as the backend:
 
 1. Project Setup:
-   - Set up a new Django project.
+   - Set up a new Django project..
    - Install necessary dependencies, including Crow C++ framework.
 
 2. Frontend Development (Django):
